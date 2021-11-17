@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2bd46f89-da99-8df3-5ac3-14ac12789f96"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Elliptic Curves",
+  "course_description": "This graduate-level course is a computationally focused introduction to elliptic curves, with applications to number theory and cryptography.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.783",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
